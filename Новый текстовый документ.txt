@@ -1,0 +1,767 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class="dj_webkit dj_chrome dj_contentbox"><head>
+    	<!-- NAME: 1:3:1 COLUMN - BANDED -->
+        <meta name="viewport" content="width=device-width">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>*|MC:SUBJECT|*</title>
+		
+	<style type="text/css">
+		p{
+			margin:1em 0;
+		}
+		a{
+			word-wrap:break-word;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		#templatePreheader,#templateHeader,#templateUpperBody,#templateColumns,#templateLowerBody,#templateFooter{
+			padding-right:10px;
+			padding-left:10px;
+		}
+		.templateContainer{
+			max-width:600px;
+		}
+		.columnsContainer{
+			max-width:197px;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		h1{
+			color:#606060 !important;
+			font-family:Helvetica;
+			font-size:40px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-1px;
+			text-align:left;
+		}
+		h2{
+			color:#404040 !important;
+			;
+                /*@editable*/ font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-.75px;
+			text-align:left;
+		}
+		h3{
+			color:#606060 !important;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:-.5px;
+			text-align:left;
+		}
+		h4{
+			color:#808080 !important;
+			font-family:Helvetica;
+			font-size:15px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#00a6dd;
+			border-top:0;
+			border-bottom:0;
+		}
+		.preheaderContainer .mcnTextContent,.preheaderContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:125%;
+			text-align:left;
+		}
+		.preheaderContainer .mcnTextContent a{
+			color:#606060;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#FFFFFF;
+			border-top:0;
+			border-bottom:0;
+		}
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.headerContainer .mcnTextContent a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateUpperBody{
+			background-color:#00a6dd;
+			border-top:0;
+			border-bottom:0;
+		}
+		.upperBodyContainer .mcnTextContent,.upperBodyContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.upperBodyContainer .mcnTextContent a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateColumns{
+			background-color:#00a6dd;
+			border-top:0;
+			border-bottom:0;
+		}
+		.leftColumnContainer .mcnTextContent,.leftColumnContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.leftColumnContainer .mcnTextContent a,.leftColumnContainer .mcnTextContent p a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.centerColumnContainer .mcnTextContent,.centerColumnContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.centerColumnContainer .mcnTextContent a,.centerColumnContainer .mcnTextContent p a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		.rightColumnContainer .mcnTextContent,.rightColumnContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.rightColumnContainer .mcnTextContent a,.rightColumnContainer .mcnTextContent p a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateLowerBody{
+			background-color:#00a6dd;
+			border-top:0;
+			border-bottom:0;
+		}
+		.lowerBodyContainer .mcnTextContent,.lowerBodyContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:15px;
+			line-height:150%;
+			text-align:left;
+		}
+		.lowerBodyContainer .mcnTextContent a{
+			color:#6DC6DD;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		body,#bodyTable,#templateFooter{
+			background-color:#00a6dd;
+			border-top:0;
+			border-bottom:0;
+		}
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			color:#606060;
+			font-family:Helvetica;
+			font-size:11px;
+			line-height:125%;
+			text-align:center;
+		}
+		.footerContainer .mcnTextContent a{
+			color:#606060;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media screen and (min-width:768px){
+		.columnsContainer{
+			width:197px;
+		}
+
+}	@media only screen and (max-width:480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td#bodyCell{
+			padding-top:10px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.columnsContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		.columnWidth{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		img.mcnImage,table.mcnShareContent,table.mcnCaptionTopContent,table.mcnCaptionBottomContent,table.mcnTextContentContainer,table.mcnBoxedTextContentContainer,table.mcnImageGroupContentContainer,table.mcnCaptionLeftTextContentContainer,table.mcnCaptionRightTextContentContainer,table.mcnCaptionLeftImageContentContainer,table.mcnCaptionRightImageContentContainer,table.mcnImageCardLeftTextContentContainer,table.mcnImageCardRightTextContentContainer{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		table.mcnCaptionLeftContentOuter td.mcnTextContent,table.mcnCaptionRightContentOuter td.mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnImageCardTopImageContent,td.mcnCaptionBlockInner table.mcnCaptionTopContent:last-child td.mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		tbody.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnTextContent,td.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.mcnImageCardLeftImageContent,td.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.columnsContainer{
+			display:block !important;
+			max-width:600px !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		table.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.footerContainer a.utilityLink{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h1{
+			font-size:24px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		h4{
+			font-size:16px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		table.mcnBoxedTextContentContainer td.mcnTextContent,td.mcnBoxedTextContentContainer td.mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.preheaderContainer td.mcnTextContent,td.preheaderContainer td.mcnTextContent p{
+			font-size:14px !important;
+			line-height:115% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.headerContainer td.mcnTextContent,td.headerContainer td.mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.upperBodyContainer td.mcnTextContent,td.upperBodyContainer td.mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.leftColumnContainer td.mcnTextContent,td.leftColumnContainer td.mcnTextContent p{
+			font-size:16px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.centerColumnContainer td.mcnTextContent,td.centerColumnContainer td.mcnTextContent p{
+			font-size:16px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.rightColumnContainer td.mcnTextContent,td.rightColumnContainer td.mcnTextContent p{
+			font-size:16px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.lowerBodyContainer td.mcnTextContent,td.lowerBodyContainer td.mcnTextContent p{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width:480px){
+		td.footerContainer td.mcnTextContent,td.footerContainer td.mcnTextContent p{
+			font-size:14px !important;
+			line-height:115% !important;
+		}
+
+}</style><link rel="stylesheet" type="text/css" href="https://us8.admin.mailchimp.com/release/10.2.27/css/less/template-editor.css">
+                <!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://us8.admin.mailchimp.com/release/10.2.27/css/template-editor-ie8.css" /><![endif]-->
+                    <script type="text/javascript" src="https://us8.admin.mailchimp.com/release/10.2.27/js/dojo/dojo.js " data-dojo-config="parseOnLoad: true, usePlainJson: true, isDebug: false"></script><script type="text/javascript" src="https://us8.admin.mailchimp.com/release/10.2.27/js/mojo/mcnpreview.js"></script><script>var _mcVariants = {};</script><script>dojo.require("mojo.neapolitan.Preview");</script><style type="text/css">/* Enable image placeholders */@-moz-document url-prefix(http), url-prefix(file) { img:-moz-broken{-moz-force-broken-image-icon:1; width:24px;height:24px;
+}
+}</style></head>
+	<body class="mcd np">
+		<center>
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+				<tbody><tr>
+					<td align="center" valign="top" id="bodyCell">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tbody><tr>
+                                <td align="center" valign="top" id="templatePreheader">
+                                    <!-- BEGIN PREHEADER // -->
+									<!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+									<tr>
+									<td align="center" valign="top">
+									<![endif]-->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                        	<td valign="top" class="preheaderContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="preheader_container" mccontainer="preheader_container"><div class="mojoMcContainerEmptyMessage" style="display: block;">Drop Content Blocks Here</div></td>
+                                        </tr>
+                                    </tbody></table>
+									<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateHeader">
+                                    <!-- BEGIN HEADER // -->
+									<!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+									<tr>
+									<td align="center" valign="top">
+									<![endif]-->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                            <td valign="top" class="headerContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="header_container" mccontainer="header_container"><div class="mojoMcContainerEmptyMessage" style="display: none;">Drop Content Blocks Here</div><div class="mojoMcBlock tpl-block dojoDndItem" id="mojo_neapolitan_preview_McBlock_0" widgetid="mojo_neapolitan_preview_McBlock_0">
+    <div class="editedOverlay" style="display:none" data-dojo-attach-point="editedOverlay">
+        <span data-dojo-attach-point="editType"></span> by: <span class="userName" data-dojo-attach-point="editedBy"></span>
+    </div>
+
+    <!-- Content of the block will get inserted inside of this -->
+    <div data-dojo-attach-point="containerNode"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding:0px" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 0px; padding-left: 0px; padding-top: 0; padding-bottom: 0; text-align:center;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://gallery.mailchimp.com/ea2b01d2cdf518837fbb8f992/images/fb985360-8d3e-45ce-9a0e-f9ed2404bf17.jpg" width="600" style="max-width:1334px; padding-bottom: 0; display: inline !important; vertical-align: bottom;" class="mcnImage blockDropTarget" id="dijit__Templated_0" widgetid="dijit__Templated_0">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></div>
+
+    <div class="tpl-block-controls">
+        <span title="Drag to Reorder" class="tpl-block-drag dojoDndHandle freddicon vellip-square"></span>
+        <a title="Edit Block" href="#" class="tpl-block-edit" data-dojo-attach-point="editBtn"><span class="freddicon edit"></span></a>
+        <a title="Duplicate Block" href="#" class="tpl-block-clone" data-dojo-attach-point="cloneBtn"><span class="freddicon duplicate"></span></a>
+        <a title="Delete Block" href="#" class="tpl-block-delete" data-dojo-attach-point="deleteBtn"><span class="freddicon trash"></span></a>
+    </div>
+</div></td>
+                                        </tr>
+                                    </tbody></table>
+									<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateUpperBody">
+                                    <!-- BEGIN UPPER BODY // -->
+									<!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+									<tr>
+									<td align="center" valign="top">
+									<![endif]-->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                            <td valign="top" class="upperBodyContainer tpl-container dojoDndSource dojoDndTarget dojoDndContainer" mc:container="upper_body_container" mccontainer="upper_body_container"><div class="mojoMcContainerEmptyMessage" style="display: none;">Drop Content Blocks Here</div><div class="mojoMcBlock tpl-block dojoDndItem focus" id="mojo_neapolitan_preview_McBlock_1" widgetid="mojo_neapolitan_preview_McBlock_1">
+    <div class="editedOverlay" style="display:none" data-dojo-attach-point="editedOverlay">
+        <span data-dojo-attach-point="editType"></span> by: <span class="userName" data-dojo-attach-point="editedBy"></span>
+    </div>
+
+    <!-- Content of the block will get inserted inside of this -->
+    <div data-dojo-attach-point="containerNode"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="600" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding: 9px 18px; text-align: right;">
+                        
+                            <h1 style="text-align: center;"><span style="font-size:24px">Здравствуйте, Nagibator_999</span></h1>
+
+<p style="text-align: center;">Для восстановления пароля, пожалуйста <a href="#" target="_blank">перейдите по ссылке</a></p>
+
+<p style="text-align: center;">Если вы не регестрировались в сервисе Appsky, свяжитесь с службой поддержки&nbsp;<a href="mailto:support@appsky.ru?subject=support%40appsky.ru" target="_blank">support@appsky.ru&nbsp;</a><br>
+<br>
+С уважением, команда AppSky.<br>
+<br>
+<a href="http://appsky.ru/" target="_blank"><img align="none" height="39" src="https://gallery.mailchimp.com/ea2b01d2cdf518837fbb8f992/images/af53a3a3-3089-455a-a412-4394c74071ec.jpg" style="width: 200px; height: 39px; margin: 0px;" width="200"></a><br>
+&nbsp;</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+
+    <div class="tpl-block-controls">
+        <span title="Drag to Reorder" class="tpl-block-drag dojoDndHandle freddicon vellip-square"></span>
+        <a title="Edit Block" href="#" class="tpl-block-edit" data-dojo-attach-point="editBtn"><span class="freddicon edit"></span></a>
+        <a title="Duplicate Block" href="#" class="tpl-block-clone" data-dojo-attach-point="cloneBtn"><span class="freddicon duplicate"></span></a>
+        <a title="Delete Block" href="#" class="tpl-block-delete" data-dojo-attach-point="deleteBtn"><span class="freddicon trash"></span></a>
+    </div>
+</div><div class="mojoMcBlock tpl-block dojoDndItem" id="mojo_neapolitan_preview_McBlock_2" widgetid="mojo_neapolitan_preview_McBlock_2">
+    <div class="editedOverlay" style="display:none" data-dojo-attach-point="editedOverlay">
+        <span data-dojo-attach-point="editType"></span> by: <span class="userName" data-dojo-attach-point="editedBy"></span>
+    </div>
+
+    <!-- Content of the block will get inserted inside of this -->
+    <div data-dojo-attach-point="containerNode"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="366" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-left:18px; padding-bottom:9px; padding-right:0;">
+                        
+                            <div dir="ltr" style="text-align: left;"><span style="font-size:18px">Все новости и задания в наших группах в социальных сетях :&nbsp;</span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+                <table align="right" border="0" cellpadding="0" cellspacing="0" width="197" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right:18px; padding-bottom:9px; padding-left:0;">
+                        
+                            <h1 style="line-height: 20.8px; text-align: center;"><span style="font-size:16px"><a href="http://fb.ru" target="_blank"><img align="none" height="49" src="https://gallery.mailchimp.com/ea2b01d2cdf518837fbb8f992/images/f00bdfd3-5c8c-44e0-a287-87203f6849bc.jpg" style="opacity: 0.9; width: 50px; height: 49px; margin: 0px;" width="50"></a>&nbsp;<a href="http://tw.ru" target="_blank"><img align="none" height="49" src="https://gallery.mailchimp.com/ea2b01d2cdf518837fbb8f992/images/a8149ff5-0a10-48b6-8843-0178be756dab.jpg" style="width: 50px; height: 49px; margin: 0px;" width="50"></a>&nbsp;<a href="http://vk.ru" target="_blank"><img align="none" height="49" src="https://gallery.mailchimp.com/ea2b01d2cdf518837fbb8f992/images/a628edcc-cfda-4d75-b622-d3368243f690.jpg" style="width: 50px; height: 49px; margin: 0px;" width="50"></a></span></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+
+    <div class="tpl-block-controls">
+        <span title="Drag to Reorder" class="tpl-block-drag dojoDndHandle freddicon vellip-square"></span>
+        <a title="Edit Block" href="#" class="tpl-block-edit" data-dojo-attach-point="editBtn"><span class="freddicon edit"></span></a>
+        <a title="Duplicate Block" href="#" class="tpl-block-clone" data-dojo-attach-point="cloneBtn"><span class="freddicon duplicate"></span></a>
+        <a title="Delete Block" href="#" class="tpl-block-delete" data-dojo-attach-point="deleteBtn"><span class="freddicon trash"></span></a>
+    </div>
+</div></td>
+                                        </tr>
+                                    </tbody></table>
+									<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+                                    <!-- // END UPPER BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateColumns">
+                                	<!-- BEGIN COLUMNS // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                            <td align="center" style="text-align:center; display:inline-block;" valign="top">
+                                                <!-- BEGIN INDIVIDUAL COLUMNS // -->
+                                                <!--[if gte mso 9]>
+                                                <table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+                                                <tr>
+                                                <td align="center" valign="top" style="width:197px;" width="197">
+                                                <![endif]-->
+                                                <div style="display:inline-block; vertical-align:top; width:197px;" class="columnWidth">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="columnsContainer">
+                                                    <tbody><tr>
+                                                        <td valign="top" class="leftColumnContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="left_column_container" mccontainer="left_column_container"><div class="mojoMcContainerEmptyMessage" style="display: block;">Drop Content Blocks Here</div></td>
+                                                    </tr>
+                                                </tbody></table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                <td align="center" valign="top" style="width:197px;" width="197">
+                                                <![endif]-->
+                                                <div style="display:inline-block; vertical-align:top; width:197px;" class="columnWidth">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="columnsContainer">
+                                                    <tbody><tr>
+                                                        <td valign="top" class="centerColumnContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="center_column_container" mccontainer="center_column_container"><div class="mojoMcContainerEmptyMessage" style="display: block;">Drop Content Blocks Here</div></td>
+                                                    </tr>
+                                                </tbody></table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                <td align="center" valign="top" style="width:197px;" width="197">
+                                                <![endif]-->
+                                                <div style="display:inline-block; vertical-align:top; width:197px;" class="columnWidth">
+                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" class="columnsContainer">
+                                                    <tbody><tr>
+                                                        <td align="center" valign="top" class="rightColumnContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="right_column_container" mccontainer="right_column_container"><div class="mojoMcContainerEmptyMessage" style="display: block;">Drop Content Blocks Here</div></td>
+                                                    </tr>
+                                                </tbody></table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                </tr>
+                                                </table>
+                                                <![endif]-->
+                                                <!-- // END INDIVIDUAL COLUMNS -->
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!-- // END COLUMNS -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateLowerBody">
+                                    <!-- BEGIN LOWER BODY // -->
+									<!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+									<tr>
+									<td align="center" valign="top">
+									<![endif]-->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                            <td valign="top" class="lowerBodyContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="lower_body_container" mccontainer="lower_body_container"><div class="mojoMcContainerEmptyMessage" style="display: none;">Drop Content Blocks Here</div><div class="mojoMcBlock tpl-block dojoDndItem" id="mojo_neapolitan_preview_McBlock_3" widgetid="mojo_neapolitan_preview_McBlock_3">
+    <div class="editedOverlay" style="display:none" data-dojo-attach-point="editedOverlay">
+        <span data-dojo-attach-point="editType"></span> by: <span class="userName" data-dojo-attach-point="editedBy"></span>
+    </div>
+
+    <!-- Content of the block will get inserted inside of this -->
+    <div data-dojo-attach-point="containerNode"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner">
+                
+                <table align="left" border="0" cellpadding="0" cellspacing="0" width="600" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
+                        
+                            Appsky.ru - продвижение мобильных приложений.<br>
+Вы получили это письмо, потому что зарегистрировались в сервисе Appsky.ru.<br>
+Вы можете изменить настройки уведомлений в своем личном кабинете.<br>
+<br>
+Спасибо за участие!
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+
+    <div class="tpl-block-controls">
+        <span title="Drag to Reorder" class="tpl-block-drag dojoDndHandle freddicon vellip-square"></span>
+        <a title="Edit Block" href="#" class="tpl-block-edit" data-dojo-attach-point="editBtn"><span class="freddicon edit"></span></a>
+        <a title="Duplicate Block" href="#" class="tpl-block-clone" data-dojo-attach-point="cloneBtn"><span class="freddicon duplicate"></span></a>
+        <a title="Delete Block" href="#" class="tpl-block-delete" data-dojo-attach-point="deleteBtn"><span class="freddicon trash"></span></a>
+    </div>
+</div></td>
+                                        </tr>
+                                    </tbody></table>
+									<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+                                    <!-- // END LOWER BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateFooter">
+                                    <!-- BEGIN FOOTER // -->
+									<!--[if gte mso 9]>
+									<table align="center" border="0" cellspacing="0" cellpadding="0" style="width:600px;" width="600">
+									<tr>
+									<td align="center" valign="top">
+									<![endif]-->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer">
+                                        <tbody><tr>
+                                            <td valign="top" class="footerContainer tpl-container dojoDndContainer dojoDndSource dojoDndTarget" mc:container="footer_container" mccontainer="footer_container"><div class="mojoMcContainerEmptyMessage" style="display: block;">Drop Content Blocks Here</div></td>
+                                        </tr>
+                                    </tbody></table>
+									<!--[if gte mso 9]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</center>
+	
+</body></html>
